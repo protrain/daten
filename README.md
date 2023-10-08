@@ -1,6 +1,6 @@
 # Datensätze zum Buch _"Programmieren Trainieren"_
 
-Hier findet ihr die Datensätze für die Aufgaben aus dem [Buch "Programmieren Trainieren" (2. Auflage)] von Luigi Lo Iacono, Stephan Wiefling und Michael Schneider.
+Hier findet ihr die Datensätze für die Aufgaben aus dem [Buch "Programmieren Trainieren" (3. Auflage)] von Luigi Lo Iacono, Stephan Wiefling und Michael Schneider.
 
 Der Datensatz mit italienischen Postleitzahlen steht unter der [CC BY 4.0]-Lizenz und wurde aus dem [GeoNames Postal Code]-Datensatz abgeleitet. Die restlichen Datensätze dieses Repositories stehen unter den Bedingungen der MIT-Lizenz ([LICENSE](LICENSE)).
 
@@ -35,7 +35,7 @@ Aufgrund der rechtlichen Bedingungen des Originaldatensatzes können wir den Dat
 
 
 
-[Buch "Programmieren Trainieren" (2. Auflage)]: https://www.hanser-fachbuch.de/buch/Programmieren+trainieren/9783446459113
+[Buch "Programmieren Trainieren" (3. Auflage)]: https://www.hanser-fachbuch.de/fachbuch/artikel/9783446477667
 
 [Liste der deutschen Postleitzahlen und ihrer 2D-Koordinaten auf der Landkarte]: https://raw.githubusercontent.com/protrain/daten/master/postleitzahlen/zip_de_prep.csv
 
